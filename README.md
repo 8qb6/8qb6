@@ -9,7 +9,7 @@ I started coding back in **2015**, and since then I've been building my skills a
 
 * 💡 Full-stack developer
 * 🧠 Passionate about building systems and bots
-* 🤖 Creator of a bot called **Recent**
+* 🤖 Creator of a bot called **recent** https://recent.lol
 * 📈 Always improving and learning new tech
 
 ---
@@ -26,10 +26,10 @@ I started coding back in **2015**, and since then I've been building my skills a
 
 ## 🤖 Projects
 
-### 🔹 Recent Bot
+### 🔹 recent
 
-A custom bot built and maintained by me.
-Focused on performance, automation, and useful features.
+A multipurpose bot made to fit your needs
+It's primaraly focused on amazing user interferance and quality of life
 
 ---
 
