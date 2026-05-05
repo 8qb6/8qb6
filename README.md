@@ -52,7 +52,7 @@ It's primaraly focused on amazing user interferance and quality of life
 
 ## 📫 Connect With Me
 
-*Discord: 8qb6*
+> **Discord:** 8qb6
 
 ---
 
